@@ -7,3 +7,4 @@ console.log(resta(104,98));
 console.log(resta(80,15));
 console.log(resta(7,60));
 console.log(resta(68,4));
+console.log("hola")
