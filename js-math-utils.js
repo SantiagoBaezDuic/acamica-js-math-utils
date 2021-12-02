@@ -20,6 +20,6 @@ const round = (num) => {
 
 divide(10,2);
 
-round(5.7);
+round(6.7);
 
-round(5.1);
+round(8.1);
