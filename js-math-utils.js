@@ -14,4 +14,12 @@ const divide = (num1, num2) => {
     return console.log(num1 / num2);
 }
 
+const round = (num) => {
+    return Math.round(num);
+}
+
 divide(10,2);
+
+round(5.7);
+
+round(5.1);
